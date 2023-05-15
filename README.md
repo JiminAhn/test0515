@@ -1,2 +1,2 @@
 # test0515
- test repo for demonstration purposes
+ test repo for demo
